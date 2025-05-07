@@ -172,3 +172,50 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+# OS and Editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
+
+# Node.js
+node_modules/
+package-lock.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+venv/
+
+# Java
+*.class
+target/
+build/
+
+# C++
+*.o
+*.a
+*.so
+*.dylib
+*.exe
+*.dll
+/out
+/bin
+
+# Logs
+*.log
+logs/
+*.stackdump
+
+# Temporary files
+*~
+# Backup files
+*.bak
+*.backup
