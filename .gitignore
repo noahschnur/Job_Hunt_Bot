@@ -1,3 +1,7 @@
+#Api keys:
+PINECONE_API_KEY="pcsk_49o5xx_PTRf3KimBAEcY7DmLuBdSocsx6FQzT1EktPsEXP6Q2jkAyifhvpYpT9ccxrQmPT"
+OPENAI_API_KEY="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"
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
